@@ -19,12 +19,12 @@ versions:
   ghae: '*'
   ghec: '*'
 topics:
+
   - 2FA
   - Identity
   - Access management
   - Usernames
-  - Device verification
-children:
+  - Device verificatio children
   - /keeping-your-account-and-data-secure
   - /securing-your-account-with-two-factor-authentication-2fa
   - /authenticating-with-saml-single-sign-on
@@ -32,5 +32,5 @@ children:
   - /troubleshooting-ssh
   - /managing-commit-signature-verification
   - /troubleshooting-commit-signature-verification
----
-
+---robienie louda 
+  -
